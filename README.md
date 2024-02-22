@@ -1,4 +1,5 @@
-System Maintenance Script
+# **Script to automatically update the system**
+
 This script helps you keep your system up to date by performing the following tasks:
 
 1. Update Package Lists: Updates the list of available packages from repositories.
